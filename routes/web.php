@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\ProductController;
+use App\Http\Controllers\EventController;
 
 /*
 |--------------------------------------------------------------------------
@@ -17,6 +18,7 @@ use App\Http\Controllers\ProductController;
 
 Route::get('/', [HomeController::class, 'index'])->name('home');
 Route::get('/product', [ProductController::class, 'index'])->name('product');
+Route::get('/event-calendar', [EventController::class, 'index'])->name('event');
 
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
     return view('dashboard');

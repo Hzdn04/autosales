@@ -9,3 +9,17 @@
 
 <!-- Template Main JS File -->
 <script src="{{ url('frontend/assets/js/main.js')}}"></script>
+
+{{-- event calendar --}}
+<script>
+
+$(document).ready(function (){
+    $.ajaxSetup({
+        headers:{
+            'X-CSRF-TOKEN' : $('meta[name="csrf-token"]').attr('content')
+        }
+    });
+    var calendar = $('#calendar').fullCalendar();
+});
+
+</script>
