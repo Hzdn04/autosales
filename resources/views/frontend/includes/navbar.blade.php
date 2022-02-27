@@ -1,7 +1,7 @@
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container d-flex align-items-center">
-      <h1 class="logo me-auto"><a href="#hero">B2B<span>AutoSales</span></a></h1>
+      <h1 class="logo me-auto"><a href="{{ route('home') }}">B2B<span>AutoSales</span></a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt=""></a>-->
 
@@ -13,7 +13,7 @@
           <li><a href="{{ route('home') }}#listproduct">Inventory</a></li>
           <li class="dropdown"><a href="#"><span>Our Store</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="{{ route('home') }}#team">Team</a></li>
+              <li><a href="{{ route('home') }}#team">Founder</a></li>
               {{-- <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="#">Deep Drop Down 1</a></li>

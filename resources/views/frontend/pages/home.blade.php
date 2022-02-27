@@ -8,9 +8,9 @@
     <div class="container" data-aos="zoom-out" data-aos-delay="100">
       <div class="row">
         <div class="col-xl-6">
-          <h1>Bettter digital experience with Presento</h1>
-          <h2>We are team of talented designers making websites with Bootstrap</h2>
-          <a href="#about" class="btn-get-started scrollto">Get Started</a>
+          <h1>Better Shopping experience with B2BAutoSales</h1>
+          <h2>We are a company that directly sales to middle class families in need of reliable used cars located in DFW</h2>
+          <a href="{{ route('product') }}" class="btn-get-started scrollto">Get Started</a>
         </div>
       </div>
     </div>
@@ -28,9 +28,9 @@
         <div class="row no-gutters">
           <div class="content col-xl-5 d-flex align-items-stretch">
             <div class="content">
-              <h3>Voluptatem dignissimos provident quasi</h3>
+              <h3>Back2Back AutoSales & Parts</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+                is a company that directly sales to middle class families in need of reliable used cars located in DFW. global insights, and pioneering instincts to meet the standards of consumers and define our products
               </p>
               <a href="#" class="about-btn"><span>About us</span> <i class="bx bx-chevron-right"></i></a>
             </div>
@@ -39,24 +39,19 @@
             <div class="icon-boxes d-flex flex-column justify-content-center">
               <div class="row">
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <i class="bx bx-receipt"></i>
-                  <h4>Corporis voluptates sit</h4>
-                  <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                  <i class="bx bx-target-lock"></i>
+                  <h4>Have better communication methods</h4>
+                  <p>Delivering a deeper impact on lives and use of customers preferences for better communication methods</p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
-                  <i class="bx bx-cube-alt"></i>
-                  <h4>Ullamco laboris nisi</h4>
-                  <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                  <i class="bx bx-line-chart"></i>
+                  <h4>Pioneering instincts</h4>
+                  <p>Pioneering instincts to meet the standards of consumers and define our products</p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-                  <i class="bx bx-images"></i>
-                  <h4>Labore consequatur</h4>
-                  <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
-                </div>
-                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
-                  <i class="bx bx-shield"></i>
-                  <h4>Beatae veritatis</h4>
-                  <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+                  <i class="bx bx-globe"></i>
+                  <h4>Global Insight</h4>
+                  <p> Is an economics forecasting organization</p>
                 </div>
               </div>
             </div><!-- End .content-->
@@ -76,23 +71,23 @@
             <div class="count-box">
               <i class="bi bi-emoji-smile"></i>
               <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Happy Clients</p>
+              <p>B2B Clients</p>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
             <div class="count-box">
-              <i class="bi bi-journal-richtext"></i>
+              <i class="bi bi-briefcase"></i>
               <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Projects</p>
+              <p>Product</p>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
             <div class="count-box">
-              <i class="bi bi-headset"></i>
-              <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Hours Of Support</p>
+              <i class="bi bi-phone"></i>
+              <span data-purecounter-start="0" data-purecounter-end="63" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Members</p>
             </div>
           </div>
 
@@ -100,7 +95,7 @@
             <div class="count-box">
               <i class="bi bi-people"></i>
               <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Hard Workers</p>
+              <p>Workers</p>
             </div>
           </div>
 
@@ -117,25 +112,25 @@
           <li class="nav-item col-3">
             <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#tab-1">
               <i class="ri-gps-line"></i>
-              <h4 class="d-none d-lg-block">Modi sit est dela pireda nest</h4>
+              <h4 class="d-none d-lg-block">Customer Loyalty Programs</h4>
             </a>
           </li>
           <li class="nav-item col-3">
             <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
               <i class="ri-body-scan-line"></i>
-              <h4 class="d-none d-lg-block">Unde praesenti mara setra le</h4>
+              <h4 class="d-none d-lg-block">Telemarketing</h4>
             </a>
           </li>
           <li class="nav-item col-3">
             <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-3">
               <i class="ri-sun-line"></i>
-              <h4 class="d-none d-lg-block">Pariatur explica nitro dela</h4>
+              <h4 class="d-none d-lg-block">Paid Advertisement</h4>
             </a>
           </li>
           <li class="nav-item col-3">
             <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-4">
               <i class="ri-store-line"></i>
-              <h4 class="d-none d-lg-block">Nostrum qui dile node</h4>
+              <h4 class="d-none d-lg-block">Make Customer Reference</h4>
             </a>
           </li>
         </ul>
@@ -144,15 +139,14 @@
           <div class="tab-pane active show" id="tab-1">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0" data-aos="fade-up" data-aos-delay="100">
-                <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+                <h3>Back2Back Auto Sales & Parts offers a variety of different marketing strategies to help our company keep loyal customers coming.</h3>
                 <p class="fst-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                  magna aliqua.
+                  The main way the company increases sales is through.
                 </p>
                 <ul>
-                  <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                  <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                  <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                  <li><i class="ri-check-double-line"></i> customer loyalty programs.</li>
+                  <li><i class="ri-check-double-line"></i> telemarketing.</li>
+                  <li><i class="ri-check-double-line"></i> paid advertisement.</li>
                 </ul>
                 <p>
                   Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
@@ -244,59 +238,64 @@
     </section><!-- End Tabs Section -->
 
     <!-- ======= Services Section ======= -->
-    <section id="services" class="services section-bg ">
+    <section id="services" class="services">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Services</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p>
+          <h2>Payment Order</h2>
+          <p>If you're considering financing one of our quality automobiles, you're in good hands with our finance department. As your trusted used car dealership, we aim to do all we can to help you purchase the car you're looking for. We are happy to have the opportunity to help you set up a financing plan that gets you out on the road fast.</p>
         </div>
 
         <div class="row">
           <div class="col-md-6">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <i class="bi bi-briefcase"></i>
-              <h4><a href="#">Lorem Ipsum</a></h4>
+              <h4><a href="#">1. Choose Your Product</a></h4>
               <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
             </div>
           </div>
           <div class="col-md-6 mt-4 mt-md-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <i class="bi bi-card-checklist"></i>
-              <h4><a href="#">Dolor Sitema</a></h4>
+              <h4><a href="#">2. fill in the form provided</a></h4>
               <p>Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
             </div>
           </div>
           <div class="col-md-6 mt-4 mt-md-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
               <i class="bi bi-bar-chart"></i>
-              <h4><a href="#">Sed ut perspiciatis</a></h4>
+              <h4><a href="#">3. Prepaid card payments</a></h4>
               <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
             </div>
           </div>
           <div class="col-md-6 mt-4 mt-md-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
               <i class="bi bi-binoculars"></i>
-              <h4><a href="#">Nemo Enim</a></h4>
+              <h4><a href="#">4. Wait for confirmation</a></h4>
               <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
             </div>
           </div>
-          <div class="col-md-6 mt-4 mt-md-0">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="500">
-              <i class="bi bi-brightness-high"></i>
-              <h4><a href="#">Magni Dolore</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-            </div>
-          </div>
-          <div class="col-md-6 mt-4 mt-md-0">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="600">
-              <i class="bi bi-calendar4-week"></i>
-              <h4><a href="#">Eiusmod Tempor</a></h4>
-              <p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
-            </div>
-          </div>
         </div>
+        <!-- ======= Clients Section ======= -->
+        <section id="clients" class="clients">
+          <div class="container" data-aos="zoom-in">
 
+            <div class="clients-slider swiper">
+              <div class="swiper-wrapper align-items-center mb-5">
+                <div class="swiper-slide"><img src="{{ url('frontend/assets/img/clients/client-1.png') }}" class="img-fluid" alt=""></div>
+                <div class="swiper-slide"><img src="{{ url('frontend/assets/img/clients/client-2.png') }}" class="img-fluid" alt=""></div>
+                <div class="swiper-slide"><img src="{{ url('frontend/assets/img/clients/client-3.png') }}" class="img-fluid" alt=""></div>
+                <div class="swiper-slide"><img src="{{ url('frontend/assets/img/clients/client-4.png') }}" class="img-fluid" alt=""></div>
+                <div class="swiper-slide"><img src="{{ url('frontend/assets/img/clients/client-5.png') }}" class="img-fluid" alt=""></div>
+                <div class="swiper-slide"><img src="{{ url('frontend/assets/img/clients/client-6.png') }}" class="img-fluid" alt=""></div>
+                <div class="swiper-slide"><img src="{{ url('frontend/assets/img/clients/client-7.png') }}" class="img-fluid" alt=""></div>
+                <div class="swiper-slide"><img src="{{ url('frontend/assets/img/clients/client-8.png') }}" class="img-fluid" alt=""></div>
+              </div>
+              <div class="swiper-pagination"></div>
+            </div>
+
+          </div>
+        </section><!-- End Clients Section -->
       </div>
     </section><!-- End Services Section -->
 
@@ -305,7 +304,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Portfolio</h2>
+          <h2>Photos</h2>
           <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p>
         </div>
 
@@ -313,135 +312,135 @@
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
+              <li data-filter=".filter-ford">Ford</li>
+              <li data-filter=".filter-chevrolet">Chevrolet</li>
+              <li data-filter=".filter-honda">Honda</li>
             </ul>
           </div>
         </div>
 
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-ford">
             <div class="portfolio-wrap">
               <img src="{{ url('frontend/assets/img/portfolio/portfolio-1.jpg') }}" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 1</h4>
-                <p>App</p>
+                <h4>Ford 1</h4>
+                <p>Ford</p>
                 <div class="portfolio-links">
-                  <a href="{{ url('frontend/assets/img/portfolio/portfolio-1.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+                  <a href="{{ url('frontend/assets/img/portfolio/portfolio-1.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Ford 1"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-honda">
             <div class="portfolio-wrap">
               <img src="{{ url('frontend/assets/img/portfolio/portfolio-2.jpg') }}" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
+                <h4>Honda 3</h4>
+                <p>Honda</p>
                 <div class="portfolio-links">
-                  <a href="{{ url('frontend/assets/img/portfolio/portfolio-2.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                  <a href="{{ url('frontend/assets/img/portfolio/portfolio-2.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Honda 3"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-ford">
             <div class="portfolio-wrap">
               <img src="{{ url('frontend/assets/img/portfolio/portfolio-3.jpg') }}" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 2</h4>
-                <p>App</p>
+                <h4>Ford 2</h4>
+                <p>Ford</p>
                 <div class="portfolio-links">
-                  <a href="{{ url('frontend/assets/img/portfolio/portfolio-3.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
+                  <a href="{{ url('frontend/assets/img/portfolio/portfolio-3.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Ford 2"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-chevrolet">
             <div class="portfolio-wrap">
               <img src="{{ url('frontend/assets/img/portfolio/portfolio-4.jpg') }}" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Card 2</h4>
-                <p>Card</p>
+                <h4>Chevrolet 2</h4>
+                <p>Chevrolet</p>
                 <div class="portfolio-links">
-                  <a href="{{ url('frontend/assets/img/portfolio/portfolio-4.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+                  <a href="{{ url('frontend/assets/img/portfolio/portfolio-4.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Chevrolet 2"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-honda">
             <div class="portfolio-wrap">
               <img src="{{ url('frontend/assets/img/portfolio/portfolio-5.jpg') }}" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Web 2</h4>
-                <p>Web</p>
+                <h4>Honda 2</h4>
+                <p>Honda</p>
                 <div class="portfolio-links">
-                  <a href="{{ url('frontend/assets/img/portfolio/portfolio-5.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
+                  <a href="{{ url('frontend/assets/img/portfolio/portfolio-5.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Honda 2"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-ford">
             <div class="portfolio-wrap">
               <img src="{{ url('frontend/assets/img/portfolio/portfolio-6.jpg') }}" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 3</h4>
-                <p>App</p>
+                <h4>Ford 3</h4>
+                <p>Ford</p>
                 <div class="portfolio-links">
-                  <a href="{{ url('frontend/assets/img/portfolio/portfolio-6.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
+                  <a href="{{ url('frontend/assets/img/portfolio/portfolio-6.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Ford 3"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-chevrolet">
             <div class="portfolio-wrap">
               <img src="{{ url('frontend/assets/img/portfolio/portfolio-7.jpg') }}" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Card 1</h4>
-                <p>Card</p>
+                <h4>Chevrolet 1</h4>
+                <p>Chevrolet</p>
                 <div class="portfolio-links">
-                  <a href="{{ url('frontend/assets/img/portfolio/portfolio-7.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
+                  <a href="{{ url('frontend/assets/img/portfolio/portfolio-7.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Chevrolet 1"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-chevrolet">
             <div class="portfolio-wrap">
               <img src="{{ url('frontend/assets/img/portfolio/portfolio-8.jpg') }}" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Card 3</h4>
-                <p>Card</p>
+                <h4>Chevrolet 3</h4>
+                <p>Chevrolet</p>
                 <div class="portfolio-links">
-                  <a href="{{ url('frontend/assets/img/portfolio/portfolio-8.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
+                  <a href="{{ url('frontend/assets/img/portfolio/portfolio-8.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Chevrolet 3"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-honda">
             <div class="portfolio-wrap">
               <img src="{{ url('frontend/assets/img/portfolio/portfolio-9.jpg') }}" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
+                <h4>Honda 3</h4>
+                <p>Honda</p>
                 <div class="portfolio-links">
-                  <a href="{{ url('frontend/assets/img/portfolio/portfolio-9.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                  <a href="{{ url('frontend/assets/img/portfolio/portfolio-9.jpg') }}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Honda 3"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -546,79 +545,12 @@
       </div>
     </section><!-- End Testimonials Section -->
 
-    {{-- <!-- ======= Pricing Section ======= -->
-    <section id="pricing" class="pricing section-bg">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Pricing</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p>
-        </div>
-
-        <div class="row">
-
-          <div class="col-lg-4 col-md-6">
-            <div class="box" data-aos="fade-up" data-aos-delay="100">
-              <h3>Free</h3>
-              <h4><sup>$</sup>0<span> / month</span></h4>
-              <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li class="na">Pharetra massa</li>
-                <li class="na">Massa ultricies mi</li>
-              </ul>
-              <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
-            <div class="box featured" data-aos="fade-up" data-aos-delay="200">
-              <h3>Business</h3>
-              <h4><sup>$</sup>19<span> / month</span></h4>
-              <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li class="na">Massa ultricies mi</li>
-              </ul>
-              <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
-            <div class="box" data-aos="fade-up" data-aos-delay="300">
-              <h3>Developer</h3>
-              <h4><sup>$</sup>29<span> / month</span></h4>
-              <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li>Massa ultricies mi</li>
-              </ul>
-              <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Pricing Section --> --}}
-
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq">
       <div class="container listproduct justify-content-center" id="listproduct" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Frequently Asked Questions</h2>
+          <h2>List Product</h2>
         </div>
 
         <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
@@ -630,12 +562,12 @@
                     <div class="col-md-12 card mb-3" style="max-width: 540px;">
                       <div class="row g-0">
                         <div class="col-md-4">
-                          <img src="..." class="img-fluid rounded-start" alt="...">
+                          <img src="{{ url('frontend/assets/img/portfolio/portfolio-4.jpg') }}" class="img-fluid rounded-start" alt="...">
                         </div>
                         <div class="col-md-8">
                           <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                            <h5 class="card-title">Honda Brio</h5>
+                            <p class="card-text">This is a wider card with supporting text below as a natural</p>
                             <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                           </div>
                         </div>
@@ -651,12 +583,12 @@
                   <div class="card mb-3" style="max-width: 540px;">
                     <div class="row g-0">
                       <div class="col-md-4">
-                        <img src="..." class="img-fluid rounded-start" alt="...">
+                        <img src="{{ url('frontend/assets/img/portfolio/portfolio-9.jpg') }}" class="img-fluid rounded-start" alt="...">
                       </div>
                       <div class="col-md-8">
                         <div class="card-body">
-                          <h5 class="card-title">Card title</h5>
-                          <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                          <h5 class="card-title">Chevrolet Spark</h5>
+                          <p class="card-text">This is a wider card with supporting text below as a natural </p>
                           <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                         </div>
                       </div>
@@ -672,12 +604,12 @@
                   <div class="card mb-3" style="max-width: 540px;">
                     <div class="row g-0">
                       <div class="col-md-4">
-                        <img src="..." class="img-fluid rounded-start" alt="...">
+                        <img src="{{ url('frontend/assets/img/portfolio/portfolio-7.jpg') }}" class="img-fluid rounded-start" alt="...">
                       </div>
                       <div class="col-md-8">
                         <div class="card-body">
-                          <h5 class="card-title">Card title</h5>
-                          <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                          <h5 class="card-title">Honda Jazz</h5>
+                          <p class="card-text">This is a wider card with supporting text below as a natural</p>
                           <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                         </div>
                       </div>
@@ -693,12 +625,12 @@
                   <div class="card mb-3" style="max-width: 540px;">
                     <div class="row g-0">
                       <div class="col-md-4">
-                        <img src="..." class="img-fluid rounded-start" alt="...">
+                        <img src="{{ url('frontend/assets/img/portfolio/portfolio-5.jpg') }}" class="img-fluid rounded-start" alt="...">
                       </div>
                       <div class="col-md-8">
                         <div class="card-body">
-                          <h5 class="card-title">Card title</h5>
-                          <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                          <h5 class="card-title">Chevrolet Suburban</h5>
+                          <p class="card-text">This is a wider card with supporting text below as a natural</p>
                           <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                         </div>
                       </div>
@@ -714,12 +646,12 @@
                   <div class="card mb-3" style="max-width: 540px;">
                     <div class="row g-0">
                       <div class="col-md-4">
-                        <img src="..." class="img-fluid rounded-start" alt="...">
+                        <img src="{{ url('frontend/assets/img/portfolio/portfolio-1.jpg') }}" class="img-fluid rounded-start" alt="...">
                       </div>
                       <div class="col-md-8">
                         <div class="card-body">
-                          <h5 class="card-title">Card title</h5>
-                          <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                          <h5 class="card-title">Ford Ranger</h5>
+                          <p class="card-text">This is a wider card with supporting text below as a natural</p>
                           <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                         </div>
                       </div>
@@ -744,84 +676,60 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Team</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p>
-        </div>
+          <h2>Founder</h2>
+          </div>
 
         <div class="row">
 
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+          <div class="col-md-5 d-flex align-items-stretch col-lg-5 col-sm-10 order-1 order-lg-2 text-center">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
                 <img src="{{ url('frontend/assets/img/team/team-1.jpg') }}" class="img-fluid" alt="">
                 <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href="" target="_blank"><i class="bi bi-twitter"></i></a>
+                  <a href="https://www.facebook.com/Back2backautosalesparts-103572962251540" target="_blank"><i class="bi bi-facebook"></i></a>
+                  <a href="" target="_blank"><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.linkedin.com/in/angelic-salter-790b0620a/" target="_blank"><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">
-                <h4>Walter White</h4>
+                <h4>Angelic Salter</h4>
                 <span>Chief Executive Officer</span>
               </div>
             </div>
           </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <div class="member-img">
-                <img src="{{ url('frontend/assets/img/team/team-2.jpg') }}" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
-              </div>
-            </div>
+          <div class="col-lg-7 order-2 order-lg-1 mt-3 mt-lg-0" data-aos="fade-up" data-aos-delay="100">
+            <h4>" Back2Back Auto Sales & Parts offers a variety of different marketing strategies to help our company keep loyal customers coming ".</h4>
+            <p class="fst-italic">
+              CEO & Founder Back2Back Auto Sales & Parts.
+            </p>
           </div>
 
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="300">
-              <div class="member-img">
-                <img src="{{ url('frontend/assets/img/team/team-3.jpg') }}" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
-              </div>
-            </div>
-          </div>
+        </div>
 
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="400">
-              <div class="member-img">
-                <img src="{{ url('frontend/assets/img/team/team-4.jpg') }}" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
-              </div>
-            </div>
+        <div class="row content mt-5">
+          <div class="col-md-5" data-aos="fade-right" data-aos-delay="100">
+            <img src="{{ url('frontend/assets/img/angelia.png') }}" class="img-fluid" alt="">
           </div>
+          <div class="col-md-7 pt-4" data-aos="fade-left" data-aos-delay="100">
+            <h4>History</h4>
+            <p class="">
+              23 Years Old When Company Was Founded. Born And Raised In Memphis Tennessee Relocated To Dallas Texas In 2019 To Start A Foundation.
+            </p>
+          </div>
+        </div>
 
+        <div class="row content mt-5">
+          <div class="col-md-5 order-1 order-md-2" data-aos="fade-left">
+            <img src="{{ url('frontend/assets/img/angelia 2.png') }}" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-7 pt-5 order-2 order-md-1" data-aos="fade-right">
+            <h3>Educational Background</h3>
+            
+            <p>
+              Merchandising Marketing & Management Major BS 2023 Wade College
+            </p>
+          </div>
         </div>
 
       </div>
@@ -845,21 +753,21 @@
                 <div class="info-box">
                   <i class="bx bx-map"></i>
                   <h3>Our Address</h3>
-                  <p>A108 Adam Street, New York, NY 535022</p>
+                  <p>6647 Boulevard 26 Suite 100 , North Richland Hills , Tx 76180</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="info-box mt-4">
                   <i class="bx bx-envelope"></i>
                   <h3>Email Us</h3>
-                  <p>info@example.com<br>contact@example.com</p>
+                  <p>Back2BackAutoSales@gmail.com</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="info-box mt-4">
                   <i class="bx bx-phone-call"></i>
                   <h3>Call Us</h3>
-                  <p>+1 5589 55488 55<br>+1 6678 254445 41</p>
+                  <p>+214-584-8376</p>
                 </div>
               </div>
             </div>

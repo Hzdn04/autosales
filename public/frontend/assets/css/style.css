@@ -412,7 +412,7 @@ section {
 }
 .section-bg:before {
   content: "";
-  background: #1b1b1b;
+  background: #0857A8;
   position: absolute;
   bottom: 60px;
   top: 60px;
@@ -540,7 +540,7 @@ section {
 }
 .about .icon-boxes .icon-box p {
   font-size: 15px;
-  color: #848484;
+  color: #ffffff;
 }
 @media (max-width: 1200px) {
   .about .content {
@@ -676,11 +676,11 @@ section {
   margin-bottom: 20px;
   padding: 30px;
   border-radius: 6px;
-  background: #252525;
+  background: #ececec;
   transition: 0.3s;
 }
 .services .icon-box:hover {
-  background: #2b2b2b;
+  background: #85c4ff;
 }
 .services .icon-box i {
   float: left;
@@ -695,7 +695,7 @@ section {
   font-size: 18px;
 }
 .services .icon-box h4 a {
-  color: #fff;
+  color: rgb(0, 0, 0);
   transition: 0.3s;
 }
 .services .icon-box h4 a:hover {
@@ -1672,11 +1672,11 @@ section {
 #footer {
   color: #fff;
   font-size: 14px;
-  background: #111111;
+  background: #083EA8;
 }
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: #1b1b1b;
+  background: #0857A8;
 }
 #footer .footer-top .footer-contact {
   margin-bottom: 30px;
@@ -1805,4 +1805,9 @@ section {
   background: #e03a3c;
   color: #fff;
   text-decoration: none;
+}
+
+/* ADDON */
+.container-product-car{
+  margin-top: 50px;
 }

@@ -10,6 +10,9 @@
 <!-- Template Main JS File -->
 <script src="{{ url('frontend/assets/js/main.js')}}"></script>
 
+<!-- Template Javascript -->
+<script src="{{ url('frontend/assets/js-product/main.js')}}"></script>
+
 {{-- event calendar --}}
 <script>
 

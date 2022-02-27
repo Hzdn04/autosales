@@ -8,11 +8,11 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>B2B<span>AutoSales</span></h3>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
+              6647 Boulevard 26 Suite 100 <br>
+              North Richland Hills, Tx 76180<br>
               United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+              <strong>Phone:</strong> +214-584-8376<br>
+              <strong>Email:</strong> Back2BackAutoSales@gmail.com<br>
             </p>
           </div>
 
